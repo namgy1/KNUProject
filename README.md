@@ -1,2 +1,0 @@
-# KNUProject
-Metaverse Programming
